@@ -1,0 +1,10 @@
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\bin\Debug\project_form.exe.config
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\bin\Debug\project_form.exe
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\bin\Debug\project_form.pdb
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.csproj.AssemblyReference.cache
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.Properties.Resources.resources
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.csproj.GenerateResource.cache
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.csproj.CoreCompileInputs.cache
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.exe
+C:\Users\Pastor Jose\source\repos\Windows_forms_sql\project_form\project_form\obj\Debug\project_form.pdb
